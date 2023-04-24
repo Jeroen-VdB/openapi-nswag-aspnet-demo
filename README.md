@@ -24,7 +24,7 @@ NSwag server side changed configuration:
   "defaultVariables": null,
   "documentGenerator": {
     "fromDocument": {
-      "url": "petstore-v1.yml",
+      "url": "petstore.yml",
       ...
     }
   },
@@ -49,7 +49,7 @@ NSwag client side changed configuration:
   "defaultVariables": null,
   "documentGenerator": {
     "fromDocument": {
-      "url": "petstore-v1.yml",
+      "url": "petstore.yml",
       ...
     }
   },
